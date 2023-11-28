@@ -1,0 +1,726 @@
+@media only screen and (max-width: 2561px) {
+    .card{
+        margin-right: 50px;
+        margin-left: 50px;
+    }
+
+    .container31{
+        padding-left: 500px;
+    }
+
+    .section3{
+        background-position: 64%;
+    }
+
+    .header {
+        background-position: 61% 222px;
+    }
+}
+
+@media only screen and (max-width: 2451px) {
+    .container31 {
+        padding-left: 460px;
+    }
+
+    .header {
+        background-position: 62% 222px;
+    }
+}
+
+@media only screen and (max-width: 2351px) {
+    .container31 {
+        padding-left: 410px;
+    }
+}
+
+@media only screen and (max-width: 2301px) {
+    .container31 {
+        padding-left: 380px;
+    }
+}
+
+@media only screen and (max-width: 2201px) {
+    .container31 {
+        padding-left: 330px;
+    }
+
+    .header {
+        background-position: 64% 222px;
+    }
+}
+
+@media only screen and (max-width: 2111px) {
+    .container31{
+        padding-left: 250px;
+    }
+
+    .header {
+        background-position: 65% 222px;
+    }
+}
+
+@media only screen and (max-width: 2001px) {
+    .container31 {
+        padding-left: 230px;
+    }
+
+    .header {
+        background-position: 66% 222px;
+    }
+}
+
+@media only screen and (max-width: 1921px) {
+    .container31 {
+        padding-left: 180px;
+    }
+
+    .section3 {
+        background-position: 72%;
+    }
+
+    .header {
+        background-position: 67% 222px;
+    }
+}
+
+@media only screen and (max-width: 1851px) {
+    .container31 {
+        padding-left: 150px;
+    }
+
+    .header {
+        background-position: 68% 222px;
+    }
+}
+
+@media only screen and (max-width: 1781px) {
+    .container31 {
+        padding-left: 100px;
+    }
+
+    .header {
+        background-position: 70% 222px;
+    }
+}
+
+@media only screen and (max-width: 1600px) {
+    .container31 {
+        padding-left: 0;
+    }
+
+    .header {
+        background-position: 78% 222px;
+    }
+}
+
+@media only screen and (max-width: 1481px) {
+    .container31 {
+        width: 400px;
+    }
+
+    .header {
+        background-position: 78% 222px;
+    }
+}
+
+@media only screen and (max-width: 1291px) {
+    .card{
+        margin-right: 0;
+        margin-left: 25px;
+        width: 210px;
+    }
+}
+
+@media only screen and (max-width: 1151px) {
+    .container{
+        padding-right: 20px;
+        padding-left: 20px;
+    }
+
+    .container31{
+        margin: 0 188px;
+        width: 400px;
+    }
+
+    .cards{
+        margin-right: 0;
+        margin-left: 25px;
+    }
+
+    .section3{
+        justify-content: normal;
+        margin: 0;
+        background-position: 90%;
+    }
+}
+
+@media only screen and (max-width: 1081px) {
+    .cards{
+        margin-right: 0;
+        margin-left: 25px;
+    }
+
+    .cell{
+        width: 330px;
+    }
+
+    .card{
+        width: 180px;
+    }
+
+    .section4{
+        background-position: 5%;
+    }
+
+    .header{
+        text-align: center  ;
+        background-position: 85% -450px;
+    }
+
+    .content{
+        margin: 0 auto;
+    }
+
+    .text{
+        margin: 0 auto;
+        margin-top: 50px;
+    }
+
+    .header__buttons{
+        justify-content: space-around;
+    }
+
+    .flexible{
+        margin-top: 70px;
+    }
+
+    .container31{
+        margin: 0 130px;
+    }
+
+    .container4 {
+        margin-left: 320px;
+    }
+}
+
+@media only screen and (max-width: 1025px) {
+    .arrow{
+        right: 111px;
+    }
+
+    .cell{
+        width: 310px;
+    }
+
+    .arrow:hover{
+        width: 100px;
+        height: 100px;
+    }
+}
+
+@media only screen and (max-width: 1001px) {
+    .section3 {
+        justify-content: normal;
+        margin: 0;
+        height: 100%;
+        background-position: center 10%;
+    }
+
+    .container31 {
+        margin: 0 230px;
+        align-items: center;
+    }
+
+    .container3 {
+        padding-top: 350px;
+    }
+
+    .container3 h2 {
+        text-align: center;
+    }
+
+    .container3 p {
+        text-align: center;
+    }
+
+    .container4 {
+        margin-left: 300px;
+    }
+}
+
+@media only screen and (max-width: 950px) {
+    .flexible{
+        text-align: center;
+    }
+
+    body{
+        max-width: 950px;
+    }
+
+    .section{
+        height: 1500px;
+        margin-bottom: 50px;
+    }
+
+    .cells{
+        flex-direction: column;
+        margin: 120px auto;
+        max-width: 1073px;
+        gap: 60px;
+    }
+
+    .cell{
+        width: 330px;
+    }
+
+    .cell img{
+        height: 370px;
+        width: 250px;
+    }
+
+    .section2{
+        max-height: 1970px;
+    }
+
+    .container2 h3{
+        padding-top: 20px;
+    }
+
+    .cards{
+        flex-direction: column;
+        margin-top: 30px;
+        margin-bottom: 30px;
+        margin-left: 0;
+    }
+
+    .cards .card{
+        margin-bottom: 0;
+        height: 375px;
+        width: 310px;
+        margin-right: 0;
+    }
+
+    .cards .card img{
+        width: 190px;
+        height: 210px;
+    }
+
+    .last{
+        margin-bottom: 20px;
+    }
+
+    .section3{
+        flex-direction: column;
+        flex-wrap: wrap;
+        align-content: flex-start;
+        align-items: flex-start;
+    }
+
+    .section4{
+        background-position: 50% 20px;
+        max-width: 100%;
+        height: 600px;
+    }
+
+    .container4{
+        max-width: 500px;
+        padding-top: 240px;
+        justify-content: center;
+        align-items: baseline;
+        margin-left: 0;
+    }
+
+    .container5 .center{
+        margin-left: 40px;
+    }
+}
+
+@media only screen and (max-width: 900px) {
+    .header__top{
+        width: 95%;
+    }
+
+    .container4 h2{
+        width: 400px;
+    }
+
+    .container4 p{
+        width: 460px;
+    }
+
+    .container4 form{
+        width: 500px;
+    }
+
+    .section3{
+        background-position: 50% 20px;
+    }
+}
+
+@media only screen and (max-width: 870px){
+    .container31 {
+        margin-left: 218px;
+        margin-right: 0;
+    }
+    .section3 {
+        max-width: 100%;
+        height: 1090px;
+    }
+}
+
+@media only screen and (max-width: 850px) {
+    body{
+        max-width: 850px;
+    }
+
+    .header__right{
+        max-width: 470px;
+    }
+
+    .section{
+        max-width: 850px;
+        margin: 0 auto;
+        height: 1550px;
+    }
+
+    .container2 h3{
+        margin-top: 30px;
+    }
+
+    .container4 h2 {
+        text-align: center;
+    }
+
+}
+
+@media only screen and (max-width: 780px) {
+
+    .header__logo{
+        width: 85px;
+    }
+
+    .flexible {
+        font-size: 65px;
+    }
+}
+
+@media only screen and (max-width: 770px){
+    .container31 {
+        margin-left: 190px;
+    }
+}
+
+@media only screen and (max-width: 720px) {
+    .container31 {
+        margin-left: 160px;
+    }
+
+    .header__top{
+        flex-direction: column;
+        gap: 20px;
+    }
+}
+
+@media only screen and (max-width: 660px) {
+    .container31 {
+        margin-left: 140px;
+    }
+
+    .section3 {
+        max-width: 100%;
+        height: 870px;
+        background-size: 350px;
+    }
+
+    .container3 {
+        padding-top: 250px;
+    }
+}
+
+@media only screen and (max-width: 620px) {
+    .container31 {
+        margin-left: 120px;
+    }
+}
+
+@media only screen and (max-width: 580px) {
+    .container31 {
+        margin-left: 100px;
+    }
+}
+
+@media only screen and (max-width: 551px) {
+    .container2 h3 {
+        margin-top: 30px;
+        max-width: 500px;
+    }
+
+    .container2 p {
+        max-width: 420px;
+    }
+
+    .container2 h2 {
+        max-width: 450px;
+    }
+
+    .nav {
+        width: 220px;
+        padding-left: 10px;
+    }
+}
+
+@media only screen and (max-width: 540px) {
+    .container31 {
+        margin-left: 70px;
+    }
+}
+
+@media only screen and (max-width: 530px) {
+    .container4 {
+        padding-left: 20px;
+    }
+
+    .container4 form {
+        flex-direction: column;
+        max-width: 440px;
+    }
+
+    .left{
+        max-width: 300px;
+        margin-bottom: 15px;
+    }
+
+    .center{
+        max-width: 260px;
+    }
+
+    .line{
+        margin-top: 0;
+    }
+
+    .section3 {
+        background-size: 300px;
+    }
+
+    .container31 {
+        height: 600px;
+    }
+
+    .section3 {
+        height: 780px;
+    }
+
+    .section4 {
+        background-size: 220px;
+    }
+}
+
+@media only screen and (max-width: 500px) {
+    .container4 form {
+        width: 400px;
+    }
+    .container4 p {
+        max-width: 413px;
+    }
+
+    .end2 {
+        margin-left: 35px;
+    }
+    .social {
+        margin-right: 52px;
+    }
+
+    .container31 {
+        margin-left: 55px;
+    }
+
+    .flexible {
+        height: 190px;
+    }
+}
+
+@media only screen and (max-width: 480px) {
+    .container31 {
+        margin-left: 30px;
+    }
+
+    .container4 p {
+        max-width: 320px;
+    }
+
+    input {
+        width: 250px
+    }
+
+    .container2 h2 {
+        max-width: 390px;
+    }
+
+    .container2 h3 {
+        max-width: 400px;
+    }
+
+    .header__right {
+        gap: 20px;
+        align-items: center;
+        flex-direction: column;
+        max-width: 320px;
+    }
+
+}
+
+@media only screen and (max-width: 470px) {
+    .flexible {
+        height: 190px;
+    }
+}
+
+@media only screen and (max-width: 450px) {
+    .container2 p {
+        max-width: 350px;
+    }
+
+    .container4 {
+        max-width: 320px;
+    }
+
+    .container31 {
+        margin: 0 30px;
+        width: 320px;
+    }
+
+    .container4 form {
+        width: 320px;
+    }
+
+    .container4 h2 {
+        width: 320px;
+    }
+
+    .left p {
+        width: 320px;
+    }
+}
+
+@media only screen and (max-width: 400px) {
+    .container31 {
+        width: 300px;
+        margin-left: 10px;
+    }
+
+    .container4 {
+        max-width: 320px;
+    }
+
+    .container4 form {
+        max-width: 320px;
+    }
+
+    .container4 h2 {
+        width: 320px;
+    }
+
+    .section3 {
+        height: 830px;
+    }
+
+    .left p {
+        width: 280px;
+    }
+
+}
+
+@media only screen and (max-width: 390px) {
+    .container2 h3 {
+        max-width: 320px;
+    }
+
+    .container2 h2 {
+        max-width: 320px;
+    }
+
+    .container2 p {
+        max-width: 320px;
+    }
+}
+
+@media only screen and (max-width: 385px) {
+    .container4 form {
+        max-width: 300px;
+    }
+
+    .container4 p {
+        max-width: 300px;
+    }
+
+    .container4 h2 {
+        width: 300px;
+    }
+
+    .cards .card {
+        width: 260px;
+        margin-left: 0;
+    }
+    .button{
+        margin-top: 20px;
+    }
+
+    .header .container {
+        height: 770px;
+    }
+}
+
+@media only screen and (max-width: 350px) {
+    .cell {
+        width: 300px;
+    }
+
+    .flexible {
+        height: 350px;
+    }
+
+    .text {
+        margin-top: 0;
+        height: 170px
+    }
+
+    .header .container {
+        height: 920px;
+    }
+
+    .header__buttons {
+        margin-top: 0;
+    }
+
+    .button {
+        width: 130px;
+    }
+
+    .section3 {
+        background-size: 250px;
+    }
+
+    .container31{
+        margin: 0;
+        margin-left: 10px;
+    }
+
+}
+
+@media only screen and (max-width: 320px) {
+    .end2 {
+        margin-left: 0;
+    }
+
+    .flexible {
+        height: 380px;
+    }
+
+    .text {
+        margin-top: 10px;
+    }
+
+    .header .container {
+        height: 940px;
+    }
+}
